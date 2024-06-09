@@ -17,7 +17,7 @@ if x < 30:
 print("Rest of the code.")
 
 
-# If/Else Condition
+#   If/Else Condition
 x = 31
 
 if x < 30:
